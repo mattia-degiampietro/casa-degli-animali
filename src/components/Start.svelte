@@ -16,6 +16,7 @@
 	input{
 		width: 280px;
 		margin: auto;
+		border-radius: 10px;
 	}
 
 	button{
